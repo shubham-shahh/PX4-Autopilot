@@ -55,6 +55,7 @@ px4_add_board(
 		load_mon
 		logger
 		mag_bias_estimator
+		manual_control
 		mavlink
 		navigator
 		rc_update

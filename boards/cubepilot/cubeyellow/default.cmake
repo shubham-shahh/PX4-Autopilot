@@ -69,6 +69,7 @@ px4_add_board(
 		local_position_estimator
 		logger
 		mag_bias_estimator
+		manual_control
 		mavlink
 		mc_att_control
 		mc_autotune_attitude_control
